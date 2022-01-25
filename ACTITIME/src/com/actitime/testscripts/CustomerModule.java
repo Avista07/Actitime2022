@@ -8,5 +8,9 @@ public class CustomerModule {
 	public void createCustomer(){
 		
 	}
+	@Test
+	public void modifyCustomer() {
+		
+	}
 
 }
